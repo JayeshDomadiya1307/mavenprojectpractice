@@ -27,6 +27,7 @@ public class EnumerationTest {
 			System.out.println("Next element is available");			
 			
 		}
+		System.out.println("Test");
 //		else {
 //			System.out.println("Next element is not available");
 //		}
